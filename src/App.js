@@ -12,6 +12,7 @@ import Skills from './pages/skills/skills.component';
 import Projects from './components/projects-timeline/projects-timelines.component';
 import Contact from './pages/contact-form/contact-form.component';
 import Footer from './components/footer/footer.component';
+import Calendar from './pages/github/Calendar';
 
 const App = () => {
   return (
@@ -42,7 +43,7 @@ const App = () => {
           <Container className="container-box rounded">
             <Fade duration={500}>
             <hr />
-            {/* <Experience /> */}
+            <Calendar/>
           </Fade>
           </Container>
        

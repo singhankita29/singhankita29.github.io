@@ -7,7 +7,7 @@ import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
 import L_GIT from "../../assets/img/skills/git-icon.svg";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
-import L_HEROKU from "../../assets/img/skills/heroku.svg"
+import L_HEROKU from "../../assets/img/skills/heroku.jpg"
 import L_CHAKRA_UI from "../../assets/img/skills/chakra-ui.svg";
 import L_MATERIAL_UI from "../../assets/img/skills/material-ui-1.svg";
 import L_MONGO from "../../assets/img/skills/mongodb.svg";
