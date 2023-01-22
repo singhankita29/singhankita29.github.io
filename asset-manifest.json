@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74f7eb27.css",
+    "main.js": "/static/js/main.77684f14.js",
+    "static/media/slide1.webp": "/static/media/slide1.7f916e8e3f88f4655fbb.webp",
+    "static/media/JioMart.png": "/static/media/JioMart.e468c005eb7f1ebbfbe8.png",
+    "static/media/Overstock.png": "/static/media/Overstock.659ad7f6ceeaf9d8552e.png",
+    "static/media/Pharmeasy.png": "/static/media/Pharmeasy.7178a81615965c3a9028.png",
+    "static/media/pic.jpg": "/static/media/pic.1253e099e40ea8f4c02b.jpg",
+    "static/media/slide3.webp": "/static/media/slide3.43aa6d4a6bb84ec0c9b4.webp",
+    "static/media/Toggltrack.png": "/static/media/Toggltrack.25a175c31287307acede.png",
+    "static/media/slide2.webp": "/static/media/slide2.4772974ea0524feaad68.webp",
+    "static/media/background.webp": "/static/media/background.f68146215cd63c0647c5.webp",
+    "static/media/heroku.jpg": "/static/media/heroku.e56320c352e42f8fcef0.jpg",
+    "static/media/nodejs.svg": "/static/media/nodejs.52cbf9a89f44655c0375b9e9f88bf9c5.svg",
+    "static/media/react.svg": "/static/media/react.add74742e9e8f8827f7fa666dca760db.svg",
+    "static/media/css3.svg": "/static/media/css3.304483b024c1f76f1196d4d20bb5daec.svg",
+    "static/media/react-router.svg": "/static/media/react-router.a87b722746890c8dcd6e20f04b6d53cd.svg",
+    "static/media/bootstrap-4.svg": "/static/media/bootstrap-4.530b89fdf7c94b870587023862d7ebb2.svg",
+    "static/media/github.svg": "/static/media/github.c66b3c5adf421e87b1c707ba58321163.svg",
+    "static/media/html-5.svg": "/static/media/html-5.639e32875d4111d5088c905726650c21.svg",
+    "index.html": "/index.html",
+    "static/media/javascript.svg": "/static/media/javascript.8959c3407ca36475ac8dee7d503e6f62.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.3beac5ba18197ccbdea6e2f53e18edcf.svg",
+    "static/media/git-icon.svg": "/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "static/media/chakra-ui.svg": "/static/media/chakra-ui.a7ffc4edfb69b124a938de5990897ef0.svg",
+    "static/media/material-ui-1.svg": "/static/media/material-ui-1.c6a9495dd475d7c878d65bdc34a048d2.svg",
+    "main.74f7eb27.css.map": "/static/css/main.74f7eb27.css.map",
+    "main.77684f14.js.map": "/static/js/main.77684f14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f7eb27.css",
+    "static/js/main.77684f14.js"
+  ]
+}
