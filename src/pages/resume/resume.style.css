@@ -1,0 +1,16 @@
+.about {
+    background-color: transparent;
+    font-size: 1.1em;
+  }
+
+ a{  
+    font-size: 1em;
+    color:#9f9ea1;
+    background-color: transparent;
+    text-decoration: none;
+ } 
+ a:hover{
+    color:rgba(255, 255, 255, 0.747);
+    text-decoration: none;
+
+ }
